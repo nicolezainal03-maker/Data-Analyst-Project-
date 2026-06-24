@@ -46,3 +46,5 @@ Significant variation exists in salary distributions across states.
 * Analyze remote versus in-office opportunities.
 * Explore industry-specific salary trends.
 * Build predictive models for salary estimation based on skills and location.
+
+* Tableau Dashboard: https://public.tableau.com/shared/DJSR9GC9K?:display_count=n&:origin=viz_share_link
